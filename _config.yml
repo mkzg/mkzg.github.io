@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: Archiwei 老韦
+subtitle: 有之为利 无之为用
+welcome_message: <p><a href="http://liangdesign.com" target="_blank">赖以为生的技能一</a></p><p><a href="http://yaju.ca" target="_blank">赖以为生的技能二</a></p>
+description: Archiwei，来自中国，现居温哥华，一直和房屋建筑打交道。
+creator: <a href="http://mkzg.com">@archiwei</a>
 
-url: "http://vno.onevcat.com"
+url: "http://mkzg.com"
 
 permalink: /:year/:month/:title/
 
@@ -17,12 +17,14 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 随笔
+    description: 我写的一些东西
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 摄影, description: 我拍的一些东西, url: 'http://liangphoto.com'}
+    - {title: 工程, description: 我做的一些东西, url: 'http://project.mkzg.com'}
+    - {title: 联络, description: 我的一些联系方式, url: '/contact/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -32,16 +34,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
-    # duoshuo: 
-    
+    disqus: mkzg
+    # duoshuo:
+
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: olimw
+    github: mkzg
+    twitter: archwei
+    gplus: 107716023262945317060
+    mail: archiwei@gmail.com
 
 # Google Analytics
 ga:
