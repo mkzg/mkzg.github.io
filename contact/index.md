@@ -4,14 +4,14 @@ date: 2016-01-01 01:01:01
 title: contact 联络
 ---
 
-如有建议或问题，除了本网站上显示的社交媒体外，可以用以下方式联系我。
+如您有建议或疑问，除了本网站上显示的社交媒体外，可以用以下方式联系我（短信和留言最好）。
 
 ### 电话：
 - 加拿大电话: 1-778-300-6888
 - 美国电话：1-313-288-2818
 
 ### 微信：
-liiangming_wei
+![微信QR](/assets/images/wechat.jpg)
 
 ### 留言：
 <form action="//formspree.io/archiwei@gmail.com" method="POST">
