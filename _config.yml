@@ -1,8 +1,8 @@
 # Basic
 title: olim
 subtitle: 有之为利 无之为用
-welcome_message: <p><a href="http://liangdesign.com" target="_blank">赖以为生一</a></p><p><a href="http://yaju.ca" target="_blank">赖以为生二</a></p>
-description: olim (欧林木)，来自中国，现居温哥华，从事和房屋相关的工作。
+welcome_message: <p><a href="http://liangdesign.com" target="_blank">聊以为生</a></p><p><a href="http://cn.archiz.com" target="_blank">赖以为生</a></p>
+description: olim (欧林木)，来自中国，现居温哥华，从事和房屋建筑设计与建造的相关工作。
 creator: <a href="http://mkzg.com">@olim</a>
 
 url: "http://mkzg.com"
@@ -40,10 +40,16 @@ comment:
 # Social
 social:
     weibo: olimw
-    github: mkzg
+    facebook: archiwei
+    github:
     twitter: archwei
     gplus: 107716023262945317060
     mail: archiwei@gmail.com
+    linkedin:
+    tumblr:
+    youtube:
+    instagram: archiwei
+    pinterest:
 
 # Google Analytics
 ga:
