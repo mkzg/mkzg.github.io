@@ -1,7 +1,7 @@
 # Basic
 title: olim
 subtitle: 有之为利 无之为用
-welcome_message: <p><a href="http://liangdesign.com" target="_blank">聊以为生</a></p><p><a href="http://cn.archiz.com" target="_blank">赖以为生</a></p>
+welcome_message: <p><a href="http://archiz.com">聊以为生</a></p><p><a href="http://cn.archiz.com" target="_blank">赖以为生</a></p>
 description: olim (欧林木)，来自中国，现居温哥华，从事和房屋建筑设计与建造的相关工作。
 creator: <a href="http://mkzg.com">@olim</a>
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 摄影, description: olim平时拍的一些东西, url: 'http://liangphoto.com'}
+    - {title: 摄影, description: olim平时拍的一些东西, url: 'http://mkzg.com/photo/'}
     - {title: 工程, description: olim做过的一些东西, url: 'http://project.mkzg.com'}
     - {title: 联络, description: olim的一些联系方式, url: '/contact/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
@@ -39,16 +39,16 @@ comment:
 
 # Social
 social:
-    weibo: olimw
-    facebook: archiwei
+    weibo: #olimw
+    facebook: #archiwei
     github:
     twitter: archwei
-    gplus: 107716023262945317060
-    mail: archiwei@gmail.com
+    gplus: #107716023262945317060
+    mail: william@mkzg.com
     linkedin:
     tumblr:
     youtube:
-    instagram: archiwei
+    instagram: #archiwei
     pinterest:
 
 # Google Analytics
