@@ -4,7 +4,7 @@ title: Some links!
 categories: 科技, 学习
 tags: jekyll, github, git, 网站
 ---
-留着等几天来更新。
+留着等几天来更新。   好些链接失效了。
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
